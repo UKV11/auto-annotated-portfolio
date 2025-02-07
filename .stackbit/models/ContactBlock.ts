@@ -23,7 +23,7 @@ export const ContactBlockModel: Model = {
             type: 'string',
             name: 'phoneNumber',
             label: 'Phone number',
-            default: '850-123-5021'
+            default: '608-709-9798'
         },
         {
             type: 'string',
@@ -35,7 +35,7 @@ export const ContactBlockModel: Model = {
             type: 'string',
             name: 'email',
             label: 'Email address',
-            default: 'john@doe.com'
+            default: 'Krishnavamsiuppala@gmail.com'
         },
         {
             type: 'string',
@@ -47,7 +47,7 @@ export const ContactBlockModel: Model = {
             type: 'string',
             name: 'address',
             label: 'Address',
-            default: '312 Lovely Street, NY'
+            default: 'Denton,Texas'
         },
         {
             type: 'string',
