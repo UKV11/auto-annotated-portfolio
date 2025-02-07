@@ -1,5 +1,5 @@
 import * as React from 'react';
-import section from '../section';
+import section from '@/components/sections/section';  // Ensure this path is correct
 
 export function CertificationsSection() {
     return (
@@ -10,7 +10,7 @@ export function CertificationsSection() {
                 <li><strong>Intermediate Python</strong> - DataCamp</li>
                 <li><strong>Azure AI Fundamentals</strong> - Microsoft</li>
             </ul>
-        </Section>
+        </section>  {/* ✅ Ensure this closing tag exists */}
     );
 }
 
