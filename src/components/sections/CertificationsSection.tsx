@@ -1,5 +1,5 @@
 import * as React from 'react';
-import Section from '../Section';
+import section from '../Section';
 
 export function CertificationsSection() {
     return (
