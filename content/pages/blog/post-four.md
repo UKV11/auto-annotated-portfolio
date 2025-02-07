@@ -118,7 +118,7 @@ Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus
 {
   page.content && (
     <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
+      options={{ forceBlock: true, overrides: { pre: "HighlightedPreBlock" } }}
       className="sb-markdown max-w-screen-md mx-auto"
       data-sb-field-path="content"
     >
