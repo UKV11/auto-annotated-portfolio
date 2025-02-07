@@ -2,7 +2,6 @@ import { DynamicComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { allContent } from '../utils/content';
 import { PageComponentProps } from '@/types';
-import {CertificationsSection} from '@/components/sections/CertificationsSection';
 
 
 
