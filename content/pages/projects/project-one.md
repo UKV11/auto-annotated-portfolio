@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Movie-Rating-and-Revenue-Prediction
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Unlock the power of data to predict movie success! This project leverages machine learning and data science to forecast movie ratings and revenues, utilizing comprehensive datasets from IMDB and TMDB. It showcases data-driven insights and predictive analytics tailored for the entertainment industry.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
