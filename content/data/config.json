@@ -27,10 +27,11 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/krishnavamsiuppala/",
+                "icon": "linkedin",
+                "elementId": ""
             },
             {
                 "type": "Social",
@@ -58,7 +59,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "krishnavamsiuppala@gmail.com",
+                "url": "mailto:krishnavamsiuppala@gmail.com",
                 "altText": ""
             },
             {
@@ -70,8 +71,8 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/UKV11",
+                "altText": "GItHUB profile"
             }
         ],
         "contacts": {
@@ -88,7 +89,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

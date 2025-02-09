@@ -14,12 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      "Hi, I’m Krishna Vamsi Uppala.        A Data Engineer and ML Enthusiast
+      specializing in scalable data pipelines, AI models, and data-driven
+      insights."
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      "Passionate about building efficient data pipelines and deploying machine
+      learning models to extract valuable insights. Experienced in big data
+      processing, cloud computing, and AI-driven solutions. Dedicated to
+      transforming raw data into intelligent, scalable applications for
+      real-world impact."
     styles:
       self:
         height: auto
@@ -84,7 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
