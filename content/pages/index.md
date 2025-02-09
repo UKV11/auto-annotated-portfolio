@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      "Hi, I’m Krishna Vamsi Uppala. A Data Engineer and ML Enthusiast
+      "Hi, I’m Krishna Vamsi Uppala.        A Data Engineer and ML Enthusiast
       specializing in scalable data pipelines, AI models, and data-driven
       insights."
     subtitle: >-
