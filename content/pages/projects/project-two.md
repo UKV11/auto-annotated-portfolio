@@ -5,9 +5,11 @@ colors: colors-a
 date: '2024-03-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This project focuses on visualizing crime hotspots across the United States
+  using publicly available FBI crime data and advanced data processing and
+  visualization techniques. The project leverages big data tools such as AWS
+  Quicksight, Amazon EMR, and Apache Spark to deliver meaningful insights into
+  crime patterns.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
