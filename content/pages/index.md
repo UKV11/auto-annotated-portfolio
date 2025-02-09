@@ -14,10 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      "Hi, I’m Krishna Vamsi Uppala, a Data Engineer and Machine Learning
-      Enthusiast specializing in scalable data pipelines, AI models, and big
-      data processing. I leverage cloud technologies and advanced analytics to
-      transform complex data into meaningful insights."
+      "Hi, I’m Krishna Vamsi Uppala, a Data Engineer and ML Enthusiast
+      specializing in scalable data pipelines, AI models, and data-driven
+      insights."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
